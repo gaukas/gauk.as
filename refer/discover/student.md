@@ -1,4 +1,4 @@
 ---
-title: Discover Student Cash Back
-redirect_to: https://refer.discover.com/s3nt2l!54e48001c1!a
+title: Discover it® Student Cash Back Card
+redirect_to: https://refer.discover.com/s3nt2l!bea3f90048!a
 ---
