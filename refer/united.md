@@ -1,4 +1,4 @@
 ---
-title: United Credit Cards
-redirect_to: https://www.referyourchasecard.com/215a/XF4BTVHA62
+title: United MileagePlus® credit card
+redirect_to: https://www.referyourchasecard.com/215o/OR6JFY2ZF7
 ---
